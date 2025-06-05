@@ -1,1 +1,1 @@
-# Fast-Meal-Receipes
+# Fast-Meal-Recipes
