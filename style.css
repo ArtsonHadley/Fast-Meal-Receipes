@@ -1,3 +1,15 @@
 body {
-  background-color: rgb(255, 0, 0);
+  background-color: rgba(128, 128, 128, 0.734);
+  text-align: center;
+}
+
+.button1 {
+  background-color:red;
+}
+
+#print, button{
+  margin-bottom: 35px;
+  margin-top: 10px;
+  margin-right: 10px;
+  margin-left: 10px;
 }
