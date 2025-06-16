@@ -14,30 +14,3 @@ body {
   margin-left: 10px;
 }
 
-/* Phones (portrait) */
-@media (max-width: 600px) {
-  .container {
-    padding: 10px;
-  }
-}
-
-/* Tablets */
-@media (min-width: 601px) and (max-width: 900px) {
-  .container {
-    padding: 20px;
-  }
-}
-
-/* Laptops and small desktops */
-@media (min-width: 901px) and (max-width: 1200px) {
-  .container {
-    padding: 30px;
-  }
-}
-
-/* Large desktops */
-@media (min-width: 1201px) {
-  .container {
-    padding: 40px;
-  }
-}
